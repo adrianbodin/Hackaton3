@@ -1,0 +1,47 @@
+.container {
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  border: solid 2px black;
+  padding-bottom: 10px;
+  height: 765px;
+}
+.huvud {
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  border: solid 2px black;
+  padding-bottom: 10px;
+  height: 100%;
+  width: 100%;
+  font-size: x-large;
+}
+
+.bild {
+  height: 400px;
+  width: 400px;
+  border: solid 2px black;
+}
+.title {
+  text-align: center;
+}
+.text {
+  /* padding: 0 80px; */
+  align-items: center;
+  justify-content: center;
+  display: grid;
+}
+button {
+  cursor: pointer;
+}
+button:hover {
+  color: red;
+}
+button a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+button a:hover {
+  color: red;
+}
