@@ -1,0 +1,36 @@
+.lol {
+    color: aqua;
+}
+h1 {
+    color: aquamarine;
+}
+h3 {
+    color: blueviolet;
+}
+.va {
+padding: 0 250px;
+text-align: center;
+    border: solid 3px black;
+  
+}
+.allt
+{
+  align-items: center;
+  justify-content: center;
+  display: grid;
+}
+.head
+ {
+    background-color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+    display: grid;
+} 
+button
+{
+    cursor: pointer;
+}
+button:hover
+{
+    color: aqua;
+}
